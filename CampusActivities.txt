@@ -5,3 +5,9 @@ Seeing classmate in person.
 How often do you take part in it?
 
 Every day
+
+Why would you use Git, if you could just use Time Machine or Dropbox to constantly backup
+everything?
+
+They provide version control to help you track the history. If you can go back to the old one as well
+
